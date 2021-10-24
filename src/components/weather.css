@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 1500px;
+  }
+  .container .city,
+  .container .icon,
+  .container .deg,
+  .container .min-max,
+  .container .main,
+  .container .description
+  {
+      color: #FFF;
+      text-shadow: 1px 1px 30px #fff;
+      margin: 10px 0;
+  }
